@@ -1,0 +1,33 @@
+#25 including: "to....take....effect" {
+    #16 : Need Require {
+
+        ob:verse {
+
+            find:in dotnet1 ; {
+                [take_up_to]([vb 2: to...begin.to/ME, MD, ML, af]) 
+        },
+
+            find:in development ; {
+                [take_up_to]([vb 2: to...begin.to/ME, MD, ML, af])
+        },
+
+            find:in installed ; { 
+                [take_up_to]([vb 2: to...begin.to/ME, MD, ML, af])
+        },
+            find:in including ; {
+    -4/#4 <burlyness>=[17:19/config.in cred.u.lo.us]
+            }
+
+            find:in unit ; {
+    -4/#4 <burlyness>=[17:19/non-com.in cred.u.lo.us]
+            }
+            find:in Using ; {
+    -4/#4 <burlyness>=[17:19/gh-pages.in cred.u.lo.us]
+            }
+
+    #4 in:Configure
+    #4 in:com
+    #4 in:codebase
+        }
+    }
+}
