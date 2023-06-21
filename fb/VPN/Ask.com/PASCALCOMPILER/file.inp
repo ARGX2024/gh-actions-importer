@@ -1,0 +1,60 @@
+******Pascal Compiler*****
+
+program file;
+uses graph;
+
+var 
+DV : data ;
+DG : data ;
+Ae , ML, MD, ME, af : querry;
+<!----
+Graph : [file.inp]/fb/.vscode(webp,'Outbound');
+| DATA | VPN | GIT | 
+| ---- | --- | --- | 
+| AHRLO JAN EBIO | META | MPPE / TCoast / fwlink |
+| explore | fb - search/ask/gh-pages | webp |
+---->
+begin
+//open eoln to enable array of "file.inp" output
+assign(BAC, 'file.inp');
+write();
+READLN;//on deliver stage Bot xynolenes (gene 504747 K.AJ 0.2 2022.IV-RUNqread.sub.Sequent Panorama AIr7×
+writeln(BAC, 'data.urban-dictionary');
+let(BAC);
+close(BAC);
+
+<!---
+I/O static 000.2/-002.006/-00.2 
+static : -55 / -11 = 4CX -A (Y2.5 - B= 0) 
+(-1) (-0)
++0
++5
+
+--->
+//open eoln to file read input for "file.inp" graph-list {start on write to screen}
+assign(BAC, 'file.inp');
+for 0 := DV to DG do
+writeln(Ae, int16(af), '');
+
+//{list of line on readme uses}
+writeln(MD,'array=DV');
+
+var 
+str(DV, '480');
+str(DV, '451');
+str(DV, '415');
+str(DV, '461');
+str(DV, '416');
+simpleArray, DG : Qword;
+
+<!---
+mass: grant; 
+enable read "file.inp"
+eof/facebook=Meta/GIT
+
+--->
+//Write Ahrlo Jan Ebio.md on startup 
+Writeln(data);
+readln; 
+end.
+
